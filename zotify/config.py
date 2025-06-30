@@ -52,7 +52,7 @@ SYSTEM_PATHS = {
 LIBRARY_PATHS = {
     "album": Path.home().joinpath("Music/Zotify Albums"),
     "podcast": Path.home().joinpath("Music/Zotify Podcasts"),
-    "playlist": Path.home().joinpath("Music/Zotify Playlists"),
+    "playlist": Path.home().joinpath("storage/music/Zotify"),
 }
 
 CONFIG_PATHS = {
